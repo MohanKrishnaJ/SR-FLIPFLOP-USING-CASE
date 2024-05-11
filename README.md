@@ -1,5 +1,5 @@
 # SR-FLIPFLOP-USING-CASE
-3 DATE:
+# DATE:
 
 **AIM:**
 
